@@ -783,7 +783,7 @@ body {
     .header {
       /* 600px */
       -webkit-clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
-      clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%); } }
+      clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 90%); } }
   .header__logo-box {
     position: absolute;
     top: 4rem;
